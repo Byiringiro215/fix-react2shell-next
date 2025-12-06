@@ -100,9 +100,9 @@ npx fix-react2shell-next --json
 
 $ pnpm install
 
-✅ Successfully patched!
-   Your project is no longer vulnerable to CVE-2025-66478.
-   Remember to test your app and commit the changes.
+✅ Patches applied!
+   Please verify the changes and test your app before deploying.
+   Remember to commit the updated package.json and lockfile.
 ```
 
 ## Monorepo Support
