@@ -1,0 +1,29 @@
+{
+  "name": "fix-react2shell-next",
+  "version": "1.0.6",
+  "description": "Fix the React 2 Shell vulnerability (CVE-2025-66478) in Next.js apps with one command",
+  "main": "index.js",
+  "bin": {
+    "fix-react2shell-next": "./bin/cli.js"
+  },
+  "keywords": [
+    "nextjs",
+    "react",
+    "security",
+    "vulnerability",
+    "cve",
+    "rce",
+    "fix",
+    "patch"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ]
+}
+
