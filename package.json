@@ -11,6 +11,7 @@
     "fix-react2shell-next": "./bin/cli.js"
   },
   "scripts": {
+    "test": "node --test test/*.test.js",
     "changeset": "changeset",
     "version": "changeset version",
     "release": "changeset publish"
