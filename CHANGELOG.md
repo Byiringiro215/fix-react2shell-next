@@ -1,5 +1,11 @@
 # fix-react2shell-next
 
+## 1.1.2
+
+### Patch Changes
+
+- e931fc8: CVE-2025-67779: Denial of Service with Server Components - Incomplete Fix Follow-Up
+
 ## 1.1.1
 
 ### Patch Changes
