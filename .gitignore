@@ -1,5 +1,11 @@
 node_modules/
+
 test-project/
+
 *.log
+
 .DS_Store
 
+
+
+config.bat
